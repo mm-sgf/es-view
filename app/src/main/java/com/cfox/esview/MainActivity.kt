@@ -1,7 +1,8 @@
-package com.cfox.es_view
+package com.cfox.esview
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.cfox.es_view.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
